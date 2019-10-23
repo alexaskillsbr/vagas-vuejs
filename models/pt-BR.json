@@ -1,7 +1,7 @@
 {
     "interactionModel": {
       "languageModel": {
-        "invocationName": "vagas vue js",
+        "invocationName": "vagas vue j. s.",
         "intents": [
           {
             "name": "AMAZON.CancelIntent",

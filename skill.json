@@ -19,8 +19,8 @@
           "summary": "Resumo das últimas vagas de vue js",
           "description": "Essa skill irá fazer um resumo das últimas vagas de Vue js postadas no https://github.com/vuejs-br/vagas. Você pode executar essa skill em qualquer dispositivo Amazon Echo.",
           "examplePhrases": [
-            "Alexa, Vagas Vue Js",
-            "Alexa, abrir Vagas Vue Js "
+            "Alexa, vagas Vue Js",
+            "Alexa, abrir Vagas Vue Js"
           ],
           "keywords": ["vagas", "vuejs", "developer"]
         }
